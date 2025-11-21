@@ -1,46 +1,57 @@
-## Hi there 👋
+Jose Santos — Data & Business Analytics Professional
 
-# Jose Santos — Credit & Data Analytics
-(https://www.linkedin.com/in/josesantos-analytics/) • (mailto: jasantos96853@gmail.com)
+📍 New York, NY | 🔗 LinkedIn: https://www.linkedin.com/in/josesantos-analytics/
 
+About Me
 
-**Credit Risk / Data Analyst.** 7+ yrs in consumer finance + Springboard Data Analytics.  
-SQL • Python (pandas) • Tableau • Excel (pivots, INDEX-MATCH, SUMIFS)
+Analytics professional with 7+ years of experience in fast-paced business environments and a strong foundation in data-driven decision making. I specialize in transforming raw data into clear, actionable insights that support business performance, strategy, and operational efficiency.
+My background bridges financial services, client account management, and modern analytics tools — allowing me to approach problems from both a business and technical perspective. I am actively seeking roles where data, reporting, and analytical thinking contribute directly to organizational growth.
 
-- I build clean, decision-ready dashboards & analyses for credit risk and operations.
-- Comfortable joining messy data, modeling (logistic/segmentation), and packaging insights.
+Tools & Technologies:
+SQL | Python (pandas, matplotlib) | Excel | Tableau | Power BI | Salesforce
 
-### Quick Links
-- **Portfolio (Tableau):** https://public.tableau.com/app/profile/jose.santos8298/vizzes
-- **LinkedIn:** https://www.linkedin.com/in/josesantos-analytics/
-- **Email:** [jssantos96853@gmail.com](mailto:jssantos96853@gmail.com)
+Core Capabilities
+- Data analysis and reporting
+- Dashboard design and visualization
+- Business performance tracking (KPIs & metrics)
+- Data cleaning and preparation
+- Trend identification and segmentation
+- Process improvement through data insights
+- Stakeholder communication and insight delivery
 
----
+Featured Projects
+📊 Bank Loan Default Prediction
+Tech: Excel, Tableau
+Analyzed 67,000+ loan accounts to identify delinquency drivers and default risk patterns. Built interactive dashboards to visualize risk segmentation, payment behavior, and performance trends.
 
-## Featured Projects
+👥 Employee Attrition Analysis
+Tech: Python, Tableau, Excel
+Explored HR data (10,000+ records) to determine key drivers of employee attrition. Developed predictive models and dashboards to highlight high-risk groups and inform workforce planning decisions.
 
-### 1) Bank Loan Default Risk — dashboard + EDA
-Credit risk KPIs, delinquency tiers, and loss drivers with drilldowns.  
-**Repo:** https://github.com/jasantos96853-Data/loan-default-risk-analysis/tree/main  
-**Tableau:** (https://public.tableau.com/app/profile/jose.santos8298/viz/TableauProjectBanking_17592889889710/Story1)
-**Tech:** Excel, Tableau  
-**Highlights:** cohort roll rates • risk segmentation • executive KPI page
+🛒 Sales & Customer Insights Dashboard
+Tech: Power BI, DAX
+Designed a Power BI dashboard to analyze revenue trends, customer behavior, and segmentation using a star-schema data model and dynamic KPIs.
 
-### 2) Employee Attrition Analysis — logistic regression
-Churn drivers with classification metrics; actions to cut attrition.  
-**Repo:** https://github.com/jasantos96853-Data/employee-attrition-analysis/blob/main/README.md 
-**Tableau:** (https://public.tableau.com/app/profile/jose.santos8298/viz/FinalProjecttwbx_17577995592180/Story1) 
-**Tech:** Python (pandas), SQL, Tableau  
-**Highlights:** feature importance • confusion matrix • team/tenure heatmaps
+Professional Background
 
----
+7+ years in financially and performance-driven environments, supporting:
+- Client portfolio management
+- Performance metrics and reporting
+- Account analysis and strategic decision-making
+- Sales and customer lifecycle support
+- This real-world experience strengthens my ability to apply analytics within practical business contexts.
+- Career Interests
 
-## Skills
-- **Languages/Tools:** SQL, Python (pandas, numpy, matplotlib), Tableau, Excel
-- **Data:** joins, data cleaning, outliers, aggregation, cohort/segmentation
-- **Modeling:** logistic regression (scikit-learn), metrics (Accuracy/Precision/Recall/F1)
-- **Business:** credit risk, consumer finance ops, KPI design
+Open to opportunities in:
+- Data Analysis
+- Business Intelligence
+- Reporting & Insights
+- Analytics Support
+- Performance Analysis
+Entry to Mid-Level Analytics Roles
 
-## 📬 Contact
-Open to credit data / risk / reporting roles (NYC or remote).  
-Reach me on **LinkedIn** or **email** above.
+Remote and NYC-based positions welcome.
+
+Let’s Connect
+
+If you're seeking someone who can blend analytical thinking with real business understanding, feel free to connect or reach out via LinkedIn.
