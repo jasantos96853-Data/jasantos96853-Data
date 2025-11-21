@@ -8,6 +8,7 @@ Analytics professional with 7+ years of experience in fast-paced business enviro
 My background bridges financial services, client account management, and modern analytics tools — allowing me to approach problems from both a business and technical perspective. I am actively seeking roles where data, reporting, and analytical thinking contribute directly to organizational growth.
 
 Tools & Technologies:
+
 SQL | Python (pandas, matplotlib) | Excel | Tableau | Power BI | Salesforce
 
 Core Capabilities
@@ -20,6 +21,7 @@ Core Capabilities
 - Stakeholder communication and insight delivery
 
 Featured Projects
+
 📊 Bank Loan Default Prediction
 Tech: Excel, Tableau
 Analyzed 67,000+ loan accounts to identify delinquency drivers and default risk patterns. Built interactive dashboards to visualize risk segmentation, payment behavior, and performance trends.
