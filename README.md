@@ -11,7 +11,8 @@ Tools & Technologies:
 
 SQL | Python (pandas, matplotlib) | Excel | Tableau | Power BI | Salesforce
 
-Core Capabilities
+
+Core Capabilities:
 - Data analysis and reporting
 - Dashboard design and visualization
 - Business performance tracking (KPIs & metrics)
@@ -19,6 +20,7 @@ Core Capabilities
 - Trend identification and segmentation
 - Process improvement through data insights
 - Stakeholder communication and insight delivery
+
 
 Featured Projects
 
@@ -34,6 +36,7 @@ Explored HR data (10,000+ records) to determine key drivers of employee attritio
 Tech: Power BI, DAX
 Designed a Power BI dashboard to analyze revenue trends, customer behavior, and segmentation using a star-schema data model and dynamic KPIs.
 
+
 Professional Background
 
 7+ years in financially and performance-driven environments, supporting:
@@ -44,13 +47,15 @@ Professional Background
 - This real-world experience strengthens my ability to apply analytics within practical business contexts.
 - Career Interests
 
+
 Open to opportunities in:
 - Data Analysis
 - Business Intelligence
 - Reporting & Insights
 - Analytics Support
 - Performance Analysis
-Entry to Mid-Level Analytics Roles
+- Entry to Mid-Level Analytics Roles
+
 
 Remote and NYC-based positions welcome.
 
